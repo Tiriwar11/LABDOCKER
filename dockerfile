@@ -1,4 +1,4 @@
-# syntax = docker/dockerfile:
+# syntax = docker/dockerfile:1
 FROM ubuntu:23.10
 # Update and upgrade OS
 RUN apt-get update
